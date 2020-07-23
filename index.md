@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 ## We hope to fully bring to light the pattern of inequity that Highland, and to a greater extent Gilbert Public Schools, remains reluctant to address.
 
