@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Report Your Local Racist, Today!
 
 You can use the [editor on GitHub](https://github.com/reporthawks/reportyourlocal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
