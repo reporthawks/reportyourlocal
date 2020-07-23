@@ -1,7 +1,7 @@
 # Site settings
 title: Report Your Local
 tag_text: Report your Local Racist, Today!
-description: 
+description: Holding individuals accountable.
 url: "http://127.0.0.1:4000"
 baseurl: "https://reporthawks.github.io/reportyourlocal/"
 font-awesome-include: true # make this false if you don't need font-awesome
